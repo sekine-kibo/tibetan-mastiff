@@ -1,6 +1,6 @@
 "use client"; // 必要？
 
-export function NotFound() {
+export default function NotFound() {
   return (
     <div>
       <div className="text-center text-5xl font-bold mb-3">404</div>
