@@ -1,3 +1,5 @@
+"uee client"; // 必要？
+
 import Link from "next/link";
 
 export default function Navigation() {
